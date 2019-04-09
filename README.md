@@ -23,15 +23,14 @@ in [UserSavedByCompiler](https://github.com/stuyvesant-cs/solutionsHolmes/blob/2
 ```
 public class Pair<T> 
 ```
-in [Pair]https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/Pair.java#L8
-
+in [Pair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/Pair.java#L8)
 
 - declaration of a variable that can hold a reference to an instance
 of such a class:
 ```
 Pair<String> mm;
 ```
-in [UserOfPair]https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/UserOfPair.java#L15
+in [UserOfPair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/UserOfPair.java#L15)
 
 
 - assignment to such a variable:
@@ -52,7 +51,7 @@ in [Pair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d
 ```
 Pair<String> mm;
 ```
-in [UserOfPair]https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/UserOfPair.java#L15
+in [UserOfPair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/UserOfPair.java#L15)
 PROBABLY NEEDS CORRECTION
 
 
@@ -69,7 +68,7 @@ in a class / type that is parameterized by a generic type:
 ```
 Pair<String> mm;
 ```
-in [UserOfPair]https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/UserOfPair.java#L15
+in [UserOfPair](https://github.com/stuyvesant-cs/solutionsHolmes/blob/21b641c9dda3c43d3e71de138c24c29f11687d88/2019-04-05_PairOfGenerics/UserOfPair.java#L15)
 PROBABLY NEEDS CORRECTION
 
 
